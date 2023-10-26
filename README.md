@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About]
 - [Portfolio Projects]
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie]
+    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/henaornella/PortfolioProjects-main/blob/main/PortfolioProjects-main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
     - [Tech Store Sales Analysis] 
   - SQL
     - [Covid 19 Data Exploration]
