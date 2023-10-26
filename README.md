@@ -94,7 +94,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Tidyverse 
 
-
+##Contacts
+- LinkeIn:www.linkedin.com/in/hena-agnon
+- Email: henaornella@gmail.com
 
 
 
