@@ -6,24 +6,24 @@ During my studies, I honed my ability to work with complex data and developed a 
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in .
+My CV in [pdf](https://github.com/henaornella/Data_Analysis-Portfolio/blob/main/HenaAgnonCV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About]
-- [Portfolio Projects]
+- [About](https://github.com/henaornella/Data_Analysis-Portfolio#about)
+- [Portfolio Projects](https://github.com/henaornella/Data_Analysis-Portfolio#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/henaornella/PortfolioProjects-main/blob/main/PortfolioProjects-main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
-    - [Tech Store Sales Analysis] 
+    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/henaornella/Portfolio-Projects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+    - [Tech Store Sales Analysis](https://github.com/henaornella/Portfolio-Projects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb) 
   - SQL
-    - [Covid 19 Data Exploration]
-    - [Nashville Housing Data Cleaning]
+    - [Covid 19 Data Exploration](https://github.com/henaornella/Portfolio-Projects/blob/main/COVID%20Portfolio%20Project.sql)
+    - [Nashville Housing Data Cleaning](https://github.com/henaornella/Portfolio-Projects/blob/main/Data%20Cleaning%20Project%20Queries_%20Nashville%20Housing.sql)
   - R
-    - [Legendary Pokémon Analysis (Study Project)]
+    - [Legendary Pokémon Analysis](https://github.com/henaornella/Portfolio-Projects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..]
-  - Power BI
+  - [Power BI](https://github.com/henaornella/Portfolio-Projects/blob/main/HR%20Analytics.pbix)
   
 
 
@@ -32,7 +32,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`]
+**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/henaornella/Portfolio-Projects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
 **Goal:** To determine what factors contribute the most to a movie's success.
 
@@ -48,7 +48,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-**Code:** [`Tech Store Sales Analysis.ipynb`]
+**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/henaornella/Portfolio-Projects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb) 
 
 **Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
 
@@ -61,7 +61,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`]
+**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/henaornella/Portfolio-Projects/blob/main/Data%20Cleaning%20Project%20Queries_%20Nashville%20Housing.sql)
 
 **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
@@ -72,7 +72,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`]
+**Code:** [`COVID Portfolio Project.sql`](https://github.com/henaornella/Portfolio-Projects/blob/main/Data%20Cleaning%20Project%20Queries_%20Nashville%20Housing.sql)
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -86,7 +86,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
 
-**Code:** [`Legendary Pokémon Analysis (Study Project)`]
+**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/henaornella/Portfolio-Projects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
 
 **Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
 
