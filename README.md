@@ -19,8 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL
     - [Covid 19 Data Exploration](https://github.com/henaornella/Portfolio-Projects/blob/main/COVID%20Portfolio%20Project.sql)
     - [Nashville Housing Data Cleaning](https://github.com/henaornella/Portfolio-Projects/blob/main/Data%20Cleaning%20Project%20Queries_%20Nashville%20Housing.sql)
-  - R
-    - [Legendary Pokémon Analysis](https://github.com/henaornella/Portfolio-Projects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+  
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/hena.agnon)
   - [Power BI](https://github.com/henaornella/Portfolio-Projects/blob/main/HR%20Analytics.pbix)
@@ -82,19 +81,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-### Legendary Pokémon Analysis
 
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
-
-**Code:** [`Legendary Pokémon Analysis)`](https://github.com/henaornella/Portfolio-Projects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
-
-##Contacts
+### Contacts
 - LinkeIn:www.linkedin.com/in/hena-agnon
 - Email: henaornella@gmail.com
 
