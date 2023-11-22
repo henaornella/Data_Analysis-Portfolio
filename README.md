@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - R
     - [Legendary Pokémon Analysis](https://github.com/henaornella/Portfolio-Projects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..]
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/hena.agnon)
   - [Power BI](https://github.com/henaornella/Portfolio-Projects/blob/main/HR%20Analytics.pbix)
   
 
